@@ -1,0 +1,50 @@
+[
+  {
+    "company": "TCS",
+    "role": "Software Development Intern",
+    "location": "Remote",
+    "stipend": 15000,
+    "duration": "3 Months",
+    "mode": "Remote",
+    "status": "Open",
+    "skills": "Java, SQL, REST API",
+    "description": "Work on software development and API-based projects.",
+    "application_url": "https://example.com/tcs"
+  },
+  {
+    "company": "Infosys",
+    "role": "Full Stack Developer Intern",
+    "location": "Pune",
+    "stipend": 18000,
+    "duration": "3 Months",
+    "mode": "Hybrid",
+    "status": "Open",
+    "skills": "JavaScript, Node.js, SQL",
+    "description": "Build and maintain web applications.",
+    "application_url": "https://example.com/infosys"
+  },
+  {
+    "company": "Wipro",
+    "role": "Backend Developer Intern",
+    "location": "Bangalore",
+    "stipend": 12000,
+    "duration": "2 Months",
+    "mode": "Onsite",
+    "status": "Open",
+    "skills": "Node.js, Express.js, MongoDB",
+    "description": "Assist in developing backend services and APIs.",
+    "application_url": "https://example.com/wipro"
+  },
+  {
+    "company": "Accenture",
+    "role": "Web Development Intern",
+    "location": "Mumbai",
+    "stipend": 16000,
+    "duration": "3 Months",
+    "mode": "Hybrid",
+    "status": "Open",
+    "skills": "HTML, CSS, JavaScript",
+    "description": "Develop responsive web applications.",
+    "application_url": "https://example.com/accenture"
+  }
+]

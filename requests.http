@@ -1,0 +1,39 @@
+### Create Internship
+POST http://localhost:3000/api/internships
+Content-Type: application/json
+
+{
+  "company": "Infosys",
+  "role": "Software Development Intern",
+  "location": "Pune",
+  "stipend": 15000,
+  "duration": "3 Months",
+  "mode": "Hybrid",
+  "status": "Open",
+  "skills": "Java, SQL, REST API",
+  "description": "Software development internship for students.",
+  "application_url": "https://example.com/apply"
+}
+
+### Update Internship
+PUT http://localhost:3000/api/internships/1
+Content-Type: application/json
+
+{
+  "company": "Infosys",
+  "role": "Full Stack Developer Intern",
+  "location": "Pune",
+  "stipend": 18000,
+  "duration": "3 Months",
+  "mode": "Hybrid",
+  "status": "Open",
+  "skills": "Java, Node.js, SQL, REST API",
+  "description": "Updated software development internship.",
+  "application_url": "https://example.com/apply"
+}
+
+### Get All Internships
+GET http://localhost:3000/api/internships
+
+### Delete Internship
+DELETE http://localhost:3000/api/internships/1
