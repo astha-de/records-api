@@ -30,7 +30,7 @@ This project provides CRUD operations for internship records with input validati
 
 ```text
 internship-records-api/
-├── node_modules/
+
 ├── db.js
 ├── server.js
 ├── schema.sql
